@@ -1,0 +1,4 @@
+jittor==1.2.2.58
+opencv-python==4.2.0.34
+numpy==1.19.4
+Pillow==7.2.0

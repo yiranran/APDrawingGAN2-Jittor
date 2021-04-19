@@ -1,0 +1,10 @@
+*/*.pyc
+*/**/*.pyc
+*/**/**/*.pyc
+*/**/**/**/*.pyc
+*/**/**/**/**/*.pyc
+checkpoints/
+data/
+images/
+results/
+tmp/
